@@ -44,27 +44,63 @@ python manage.py runserver</br>
 <h2>Features</h2>
 The CRM project comes with the following features:
 
-<li>User authentication and authorization.</li>
-<p>Users have to Login to view the database webpage. The Login page is : </p>
-<img src="C:\Users\itspk\OneDrive\Desktop\crm ss\1.png">
-<p>After Login a message will be displayed..</p>
-![2](https://github.com/its-Prithwish/Django-CRM/assets/87355004/7416b277-7bc5-4851-81e7-fa3b8824458b)
+<h4>1. User authentication and authorization.</h4>
+The user have to Login to see the database website. The Login page is :
+
+![1](https://github.com/its-Prithwish/Django-CRM/assets/87355004/fbc72083-f96b-4e8e-a6f2-6cd815b1c954)
+
+After Login a Success message will be shown...
 
 
-<li>Dashboard to view key performance indicators and summaries.</li>
-<li>Customer management:</li>
-<li>Add customer records.</li> 
-<li>View  customer records.</li> 
-<li>Edit  customer records.</li> 
-<li> Delete customer records.</li>
-Task management:
-Create and manage tasks for follow-ups, appointments, etc.
+![2](https://github.com/its-Prithwish/Django-CRM/assets/87355004/2cd991bc-2f64-4c8b-9d08-a82002f61532)
+
+
+<h4><li>2. Register new customers.</li></h4></br>
+
+![8](https://github.com/its-Prithwish/Django-CRM/assets/87355004/20bf7462-36a7-41d6-8cab-220869807e61)
+
+
+<h4>3. Dashboard to view records.</h4></br>
+
+
+![5](https://github.com/its-Prithwish/Django-CRM/assets/87355004/3d7369a3-2155-45fc-97be-64b8c2289295)
+
+
+<h4>4. Record management :</h4></br>
+   <li>Add customer records.</li> </br>
+
+  
+  ![3](https://github.com/its-Prithwish/Django-CRM/assets/87355004/5e142bf0-43d7-4ee3-8e56-217f431e0f26)
+
+</br>After adding a success message will be displayed...
+
+![4](https://github.com/its-Prithwish/Django-CRM/assets/87355004/22804a14-d3d2-4f01-81fb-f46b2faee3d0)
+
+
+
+   
+   <li>View individual customer records.</li> </br>
+
+![6](https://github.com/its-Prithwish/Django-CRM/assets/87355004/06f00fb2-9dfc-4ff9-863f-b925907f715a)
+
+   
+   <li>Update customer records.</li> </br>
+
+
+![7](https://github.com/its-Prithwish/Django-CRM/assets/87355004/0b006dfb-b4aa-4efa-960f-58167401471e)
+
+
+     
+ 
+   <li>Delete customer records.</li></br>
+   <p>We can also delete customer records individually. This gives us a extra layer of reliability to maintain the database. No one but authorized users only will be able to delete customers records from the database table. </p>
+    
 
 <h2>Contributing</h2>
 <p>Contributions to the CRM project are welcome! If you find any bugs, have suggestions for improvements, or want to add new features, please create a pull request. Remember to follow the coding conventions and provide clear commit messages.</p>
 
 <h2>License</h2>
 This CRM project is licensed under the MIT License. Feel free to use, modify, and distribute the code as per the terms of the license.
-
+</br>
 
 

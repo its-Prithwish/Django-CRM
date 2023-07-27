@@ -46,7 +46,7 @@ The CRM project comes with the following features:
 
 <li>User authentication and authorization.</li>
 <p>Users have to Login to view the database webpage. The Login page is : </p>
-![1](https://github.com/its-Prithwish/Django-CRM/assets/87355004/f703d43a-c730-4b27-bd9e-a2eaab8c5664)
+<img src=""C:\Users\itspk\OneDrive\Desktop\crm ss\1.png"">
 <p>After Login a message will be displayed..</p>
 ![2](https://github.com/its-Prithwish/Django-CRM/assets/87355004/7416b277-7bc5-4851-81e7-fa3b8824458b)
 
